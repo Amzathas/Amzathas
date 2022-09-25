@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Amzathas
 - 👀 I’m interested in jewellery selling 
 - 🌱 I’m currently learning management 
-- 💞️ I’m looking to collaborate on jewellery items
-- 📫 How to reach me with email 
+- 💞️ I’m looking to collaborate on jewellery items,dance set
+- 📫 How to reach me with email
 
 <!---
 Amzathas/Amzathas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
